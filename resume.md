@@ -1,10 +1,10 @@
 ##Michael Dunn
-Super Summary  
 
 	my_cool_titles = ['Software Engineer', 'Blogger', 'Founder'].append('Some Other Buzzword You're Looking For!')  
 	contact_info = {
 		'email': 'mike@eikonomega.com',
-		'mobile': '574-315-6207'
+		'mobile': '574-315-6207',
+		'twitter': '@eikonomega'
 	}
 	more_info = {
 		'github': 'https://github.com/eikonomega',
@@ -13,24 +13,32 @@ Super Summary
 		'i_so_smart': 'www.smarterer.com/eikonomega'
 	}
 
-###Summary
----------------------------------
-Hello World
----------------------------------
-I've always loved interactive computer programs. I suppose that, for me, it started with the original Nintendo.
-I still remember how awesome it was to search dungeons with Link, blast through hordes of aliens as Samus Aran, and save the world as the Black Night turned Paladin Cecil in Final Fantasy 2.
-These days, I'm looking to join a group of other folks to work with who want to combine great UI/UX vision with uncompromising technical innovation to make awesome software together.
---------------------------------- More About Me --------------------------------- Continuous Improvement Junkie Highly Self-Motivated
-Agile/XP Snob (I mean, promoter)
-Python/Django Fanboy
-Goofball (But Serious About Kick-Butt Software) Designer of Relational Databases (In my sleep. BOOM!)
----------------------------------
-My Skills
----------------------------------
-Interests/Experiences: Object-Oriented Design and Development, Agile, Continuous Innovation, Relational Databases (Oracle, MySQL, Postgres, etc), Python, Django, PL/SQL, and PHP.
-Smarterer.com Test Results: http://smarterer.com/eikonomega
-Experience
-Creator/Founder at The Doula Exchange
+
+###print('Hello World!')
+I've always loved interactive computer programs. I suppose that, for me, it started with the original Nintendo.  
+I still remember how awesome it was to search dungeons with Link, blast through hordes of aliens as Samus Aran,  
+and save the world as the Black Night turned Paladin Cecil in Final Fantasy 2.
+
+These days, I'm looking to join a group of other folks to work with who want to combine great UI/UX vision with  
+uncompromising technical innovation to make awesome software together.
+
+**More About Me**  
+Continuous Improvement Junkie  
+Highly Self-Motivated  
+Agile/XP Snob (I mean, promoter)  
+Python/Django Fanboy  
+Goofball (But Serious About Kick-Butt Software)  
+Designer of Relational Databases (In my sleep. BOOM!)  
+
+**My Skills**  
+Object-Oriented Design and Development  
+Agile/Lean  
+Continuous Innovation 
+Relational Databases (Oracle, MySQL, Postgres, etc)  
+Python, Django, PL/SQL, PHP, Java
+
+###Experience
+####Creator/Founder at The Doula Exchange
 November 2012 - Present (5 months)
 I created the Doula Exchange (www.doulaexchange.com) to provide a way for prospective parents to quickly and easily connect with caring and professional doulas in their local areas.
 ￼￼Page1
