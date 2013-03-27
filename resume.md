@@ -1,10 +1,11 @@
 ##Michael Dunn
 Super Summary  
-my_cool_titles = ['Software Engineer', 'Blogger', 'Founder'].append('Some Other Buzzword You're Looking For!')  
-contact_info = {
-	'email': 'mike@eikonomega.com',
-	'mobile': '574-315-6207'
-}
+
+	my_cool_titles = ['Software Engineer', 'Blogger', 'Founder'].append('Some Other Buzzword You're Looking For!')  
+	contact_info = {
+		'email': 'mike@eikonomega.com',
+		'mobile': '574-315-6207'
+	}
 
 ###Summary
 ---------------------------------
