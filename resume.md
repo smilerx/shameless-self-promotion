@@ -6,6 +6,12 @@ Super Summary
 		'email': 'mike@eikonomega.com',
 		'mobile': '574-315-6207'
 	}
+	more_info = {
+		'github': 'https://github.com/eikonomega',
+		'blog': 'developerimprovethyself.com',
+		'founded': 'www.doulaexchange.com',
+		'i_so_smart': 'www.smarterer.com/eikonomega'
+	}
 
 ###Summary
 ---------------------------------
