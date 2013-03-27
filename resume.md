@@ -37,19 +37,40 @@ Continuous Innovation
 Relational Databases (Oracle, MySQL, Postgres, etc)  
 Python, Django, PL/SQL, PHP, Java
 
-###Experience
-####Creator/Founder at The Doula Exchange
-November 2012 - Present (5 months)
-I created the Doula Exchange (www.doulaexchange.com) to provide a way for prospective parents to quickly and easily connect with caring and professional doulas in their local areas.
-￼￼Page1
-The idea arose after experiencing the poor quality of doula listing websites currently available on the internet when we were looking for a doula for the birth of one of our children.
-Since our launch in late November 2012, we've registered 100+ doulas for our service and grown a Facebook community from nothing to 50+ people through social media promotion on LinkedIn and Facebook.
----- Skills Acquired/Practiced ---- Web Design
-Django / Python
-Heroku
-Social Media Marketing Paid Advertising Uservoice
-Customer Service
-Creator/Author at developer.improve_thyself
+##Experience
+###The Doula Exchange
+
+	class DoulaExchange(object):
+		my_role = 'Creator/Founder'
+		from_date = 'Nov. 2012'
+		to_date = 'Current'
+		
+**Summary**  
+I created the Doula Exchange (www.doulaexchange.com) to provide a way for prospective parents to quickly   
+and easily connect with caring and professional doulas in their local areas.  The idea arose after  
+experiencing the poor quality of doula listing websites currently available on the internet when we  
+were looking for a doula for the birth of one of our children.
+
+Since our launch in late November 2012, we've registered nearly 200 doulas for our service and  
+grown a Facebook community from nothing to 100+ people.
+
+**Skills Acquired/Practiced**  
+Web Design  
+Django / Python  
+API Development  
+Heroku  
+Social Media Marketing  
+Paid Advertising  
+Uservoice  
+Customer Service  
+
+###developer.improve_thyself
+
+	class DeveloperImproveThyself(object):
+		my_role = 'Creator/Author'
+		from_date = 'Jan. 2012'
+		to_date = 'Current'
+		
 January 2012 - Present (1 year 3 months)
 As the quality and power of software development platforms continue to grow, it is becoming easier to work as a developer without understanding the principles of good software design. I started www.developerimprovethyself.com and its companion Google+ page (http://goo.gl/rLaRh) to help myself and others grow towards true software craftsmanship.
 ---- Skills Acquired/Practiced ---- Self-Hosted Wordpress
