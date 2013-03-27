@@ -71,15 +71,25 @@ Customer Service
 		from_date = 'Jan. 2012'
 		to_date = 'Current'
 		
-January 2012 - Present (1 year 3 months)
-As the quality and power of software development platforms continue to grow, it is becoming easier to work as a developer without understanding the principles of good software design. I started www.developerimprovethyself.com and its companion Google+ page (http://goo.gl/rLaRh) to help myself and others grow towards true software craftsmanship.
----- Skills Acquired/Practiced ---- Self-Hosted Wordpress
-Blogging
-Technical Writing
-SEO
-Social Media Marketing
-Software Development Professional at University of Notre Dame
-September 2011 - Present (1 year 7 months)
+ I started www.developerimprovethyself.com and its companion Google+ page  
+(http://goo.gl/rLaRh) to help myself and others grow towards true software  
+craftsmanship. Over time, I've also found myself writing a considerable
+amount on topics related to organizational dysfunction and improvement.
+
+**Skills Acquired/Practiced**
+Amazon Web Services  
+Blogging  
+Technical Writing  
+SEO  
+Social Media Marketing  
+
+###University of Notre Dame
+	
+	class UniversityOfNotreDame(object):
+		my_roles = ('Software Engineer', 'Tech Lead', 'Project Manager')
+		from_date = 'Sept. 2011'
+		to_date = 'Current'
+		
 Software Design and Development. Served as tech lead on multiple projects and leading several internal improvements such as the development of a TDD framework for PL/SQL and a suite of Python utilities that eliminate the need for other developers to write scripts to manage various file management tasks (transfers, archiving, etc).
 4 recommendations available upon request
 Director of Enrollment Management Information Systems at Concordia University, Irvine
