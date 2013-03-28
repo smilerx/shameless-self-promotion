@@ -15,12 +15,9 @@
 
 
 ###print('Hello World!')
-I've always loved interactive computer programs. I suppose that, for me, it started with the original Nintendo.  
-I still remember how awesome it was to search dungeons with Link, blast through hordes of aliens as Samus Aran,  
-and save the world as the Black Night turned Paladin Cecil in Final Fantasy 2.
+I've always loved interactive computer programs. I suppose that, for me, it started with the original Nintendo.  I still remember how awesome it was to search dungeons with Link, blast through hordes of aliens as Samus Aran, and save the world as the Black Night turned Paladin Cecil in Final Fantasy 2.
 
-These days, I'm looking to join a group of other folks to work with who want to combine great UI/UX vision with  
-uncompromising technical innovation to make awesome software together.
+These days, I'm looking to join a group of other folks to work with who want to combine great UI/UX vision with uncompromising technical innovation to make awesome software together.
 
 **More About Me**  
 Continuous Improvement Junkie  
@@ -44,25 +41,30 @@ Python, Django, PL/SQL, PHP, Java
 		my_role = 'Creator/Founder'
 		from_date = 'Nov. 2012'
 		to_date = 'Current'
-		
+
 **Summary**  
-I created the Doula Exchange (www.doulaexchange.com) to provide a way for prospective parents to quickly   
-and easily connect with caring and professional doulas in their local areas.  The idea arose after  
-experiencing the poor quality of doula listing websites currently available on the internet when we  
-were looking for a doula for the birth of one of our children.
+I created the Doula Exchange (www.doulaexchange.com) to provide a way for prospective parents to quickly and easily connect with caring and professional doulas in their local areas.  The idea arose after experiencing the poor quality of doula listing websites currently available on the internet when we were looking for a doula for the birth of one of our children.
 
 Since our launch in late November 2012, we've registered nearly 200 doulas for our service and  
 grown a Facebook community from nothing to 100+ people.
 
 **Skills Acquired/Practiced**  
-Web Design  
-Django / Python  
-API Development  
-Heroku  
-Social Media Marketing  
-Paid Advertising  
-Uservoice  
-Customer Service  
+<table>
+	<tr>
+		<td>Web Design</td>
+		<td>Python / Django</td>
+		<td>API Development </td>
+		<td>Heroku</td>
+		<td>PostgreSQL</td>
+	</tr>
+	<tr>
+		<td>Google Adwords</td>
+		<td>Google Adsense</td>
+		<td>Uservoice</td>
+		<td>Customer Service</td>
+		<td>Social Media Marketing</td>
+	</tr>
+</table>  
 
 ###developer.improve_thyself
 
@@ -71,10 +73,7 @@ Customer Service
 		from_date = 'Jan. 2012'
 		to_date = 'Current'
 		
- I started www.developerimprovethyself.com and its companion Google+ page  
-(http://goo.gl/rLaRh) to help myself and others grow towards true software  
-craftsmanship. Over time, I've also found myself writing a considerable
-amount on topics related to organizational dysfunction and improvement.
+I started www.developerimprovethyself.com to help myself and others grow towards true software craftsmanship. Generally, you'll find me writing about Python, Django, Agile, and Organization Improvement.
 
 **Skills Acquired/Practiced**
 Amazon Web Services  
@@ -82,6 +81,8 @@ Blogging
 Technical Writing  
 SEO  
 Social Media Marketing  
+Google Analytics  
+Google Adsense
 
 ###University of Notre Dame
 	
@@ -91,23 +92,27 @@ Social Media Marketing
 		to_date = 'Current'
 		
 Software Design and Development. Served as tech lead on multiple projects and leading several internal improvements such as the development of a TDD framework for PL/SQL and a suite of Python utilities that eliminate the need for other developers to write scripts to manage various file management tasks (transfers, archiving, etc).
-4 recommendations available upon request
-Director of Enrollment Management Information Systems at Concordia University, Irvine
+
+###Concordia University, Irvine
+
+####Director of Enrollment Management Information Systems at 
 October 2010 - August 2011 (11 months)
 Primary In-House Developer for Hobsons Connect and Retain CRMs. PHP Web-Development
-Page2
 Oracle and MySQL Development
-Director, Student Retention Data Systems at Concordia University, Irvine
+
+####Director, Student Retention Data Systems
 April 2009 - October 2010 (1 year 7 months)
 Lead the rollout of Hobsons Retain CRM Administered Retain after Rollout
 Developed Enrollment Projections Application Developed Predictive Models for Student Retention
-Director of Housing Services at Concordia University, Irvine
+
+####Director of Housing Services at Concordia University, Irvine
 August 2007 - June 2009 (1 year 11 months)
 Handled all administrative functions for on-campus housing operations that served more than 1000
 undergraduate students.
 Managed a significant budget(100k+).
 Developed a custom Housing Services application which interfaced with the university's Banner ERP system. The application brought automation to a variety of operations that had previously been done manually (communications, billing, housing assignments, etc) and allowed for data-driven decision making regarding future housing scenarios.
-Assistant Director of Residential Education at Concordia University, Irvine
+
+####Assistant Director of Residential Education at Concordia University, Irvine
 August 2006 - July 2007 (1 year)
 During the Academic Year
 - Supervision of 16 part-time employees during the academic year.
@@ -115,16 +120,19 @@ During the Academic Year
 During the Summer
 - Supervision of 12 full-time student employees.
 - Responsible for running hotel-like operations for conferences of up to 1000 people. - Very high stress, fast paced environment.
+
 Certifications
 Project Management Certificate Program
 University of Notre Dame January 2013
 Advanced Meeting Facilitation
 Varnum Consulting
 ￼￼Page3
+
 Organizations
 Agile Alliance
 Member
 The Agile Alliance is a nonprofit organization with global membership, committed to advancing Agile development principles and practices.
+
 Projects
 Academic Services for Student Athletes Web Application
 October 2011 to February 2012 Members:Michael Dunn, Chris Corrente
