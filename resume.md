@@ -10,6 +10,7 @@
 	
 	more_info = {
 		'github': 'https://github.com/eikonomega',
+		'linkedin: 'linkedin.com/eikonomega',
 		'blog': 'developerimprovethyself.com',
 		'founded': 'www.doulaexchange.com',
 		'i_so_smart': 'www.smarterer.com/eikonomega'
