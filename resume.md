@@ -1,11 +1,13 @@
-##Michael Dunn
+#Michael Dunn
 
-	my_cool_titles = ['Software Engineer', 'Blogger', 'Founder'].append('Some Other Buzzword You're Looking For!')  
+	my_cool_titles = ['Software Engineer', 'Blogger', 'Founder'].append('Some Other Buzzword You're Looking For!')
+	  
 	contact_info = {
 		'email': 'mike@eikonomega.com',
 		'mobile': '574-315-6207',
 		'twitter': '@eikonomega'
 	}
+	
 	more_info = {
 		'github': 'https://github.com/eikonomega',
 		'blog': 'developerimprovethyself.com',
@@ -34,19 +36,19 @@ Continuous Innovation
 Relational Databases (Oracle, MySQL, Postgres, etc)  
 Python, Django, PL/SQL, PHP, Java
 
+
 ##Experience
 ###The Doula Exchange
 
 	class DoulaExchange(object):
-		my_role = 'Creator/Founder'
+		my_roles = 'Creator/Founder'
 		from_date = 'Nov. 2012'
 		to_date = 'Current'
-
-**Summary**  
+		
+#####Summary  
 I created the Doula Exchange (www.doulaexchange.com) to provide a way for prospective parents to quickly and easily connect with caring and professional doulas in their local areas.  The idea arose after experiencing the poor quality of doula listing websites currently available on the internet when we were looking for a doula for the birth of one of our children.
 
-Since our launch in late November 2012, we've registered nearly 200 doulas for our service and  
-grown a Facebook community from nothing to 100+ people.
+Since our launch in late November 2012, we've registered nearly 200 doulas for our service and grown a Facebook community from nothing to 100+ people.
 
 **Skills Acquired/Practiced**  
 <table>
@@ -66,24 +68,7 @@ grown a Facebook community from nothing to 100+ people.
 	</tr>
 </table>  
 
-###developer.improve_thyself
-
-	class DeveloperImproveThyself(object):
-		my_role = 'Creator/Author'
-		from_date = 'Jan. 2012'
-		to_date = 'Current'
-		
-I started www.developerimprovethyself.com to help myself and others grow towards true software craftsmanship. Generally, you'll find me writing about Python, Django, Agile, and Organization Improvement.
-
-**Skills Acquired/Practiced**
-Amazon Web Services  
-Blogging  
-Technical Writing  
-SEO  
-Social Media Marketing  
-Google Analytics  
-Google Adsense
-
+ 
 ###University of Notre Dame
 	
 	class UniversityOfNotreDame(object):
@@ -93,9 +78,39 @@ Google Adsense
 		
 Software Design and Development. Served as tech lead on multiple projects and leading several internal improvements such as the development of a TDD framework for PL/SQL and a suite of Python utilities that eliminate the need for other developers to write scripts to manage various file management tasks (transfers, archiving, etc).
 
+###developer.improve_thyself
+
+	class DeveloperImproveThyself(object):
+		my_roles = 'Creator/Author'
+		from_date = 'Jan. 2012'
+		to_date = 'Current'
+		
+I started www.developerimprovethyself.com to help myself and others grow towards true software craftsmanship. Generally, you'll find me writing about Python, Django, Agile, and Organization Improvement.
+
+**Skills Acquired/Practiced**
+<table>
+	<tr>
+		<td>Amazon Web Services</td>
+		<td>Wordpress</td>
+		<td>Technical Writing</td>
+		<td>Google Analytics</td>
+		<td>Google Adsense</td>
+	</tr>
+</table> 
+
 ###Concordia University, Irvine
 
-####Director of Enrollment Management Information Systems at 
+	class ConcordiaUniversityIrvine(object):
+		my_roles = (
+			'Assistant Director of Residential Education',
+			'Director of Housing Services',
+			'Director of Student Retention Data Systems',
+			'Director of Enrollment Management Information Systems')
+			
+		from_date = 'Jan. 2012'
+		to_date = 'Current'
+
+####Director of Enrollment Management Information Systems
 October 2010 - August 2011 (11 months)
 Primary In-House Developer for Hobsons Connect and Retain CRMs. PHP Web-Development
 Oracle and MySQL Development
@@ -105,7 +120,7 @@ April 2009 - October 2010 (1 year 7 months)
 Lead the rollout of Hobsons Retain CRM Administered Retain after Rollout
 Developed Enrollment Projections Application Developed Predictive Models for Student Retention
 
-####Director of Housing Services at Concordia University, Irvine
+####Director of Housing Services
 August 2007 - June 2009 (1 year 11 months)
 Handled all administrative functions for on-campus housing operations that served more than 1000
 undergraduate students.
@@ -121,14 +136,13 @@ During the Summer
 - Supervision of 12 full-time student employees.
 - Responsible for running hotel-like operations for conferences of up to 1000 people. - Very high stress, fast paced environment.
 
-Certifications
+###Certifications
 Project Management Certificate Program
 University of Notre Dame January 2013
 Advanced Meeting Facilitation
 Varnum Consulting
-￼￼Page3
 
-Organizations
+###Organizations
 Agile Alliance
 Member
 The Agile Alliance is a nonprofit organization with global membership, committed to advancing Agile development principles and practices.
@@ -164,37 +178,17 @@ Project Results
 -------------------------------------------
 Developers in the Office of Information Technologies have begun to utilize the new file management tools. The API allows developers to automate file transfers, encryption/decryption, zip/unzip, and archive/unarchive/delete operations without writing any scripts themselves.
 As a result, our maintenance codebase is shrinking (yeah!) and developers are able to spend more of their time working on delivering product features rather than coding boilerplate file management operations.
-Skills & Expertise
-Agile Methodologies Object Oriented Design Scrum
-TDD
-Python
-Django
-SQL
-Relational Databases Data Analysis MySQL
-Oracle PL/SQL
-￼Page5
-Teaching Blogging Social Media Coaching
-Education
-Biola University
-MA, 2004 - 2006
-Biola University
-BA, 2000 - 2004
-Interests
-Python / Django, Blender 3D Animation, Drawing, Agile/Lean, Software Craftsmanship, Running, Skiing/Snowboarding, Fiction Reading, Disneyland/Disneyworld
-￼￼￼Page6
-Michael Dunn
-Software Engineer, Blogger, and Founder
-mike@eikonomega.com
-4 people have recommended Michael
+
+
+##Recommendations
+#####Sergio Porres, Developer, University of Notre Dame
 "Michael is driven by a passion for greatness but he is different from the norm in that part of his vision is to take everyone with him. Michael's desire for excellence is matched by his inclusive approach to problem-solving. He listens well and perceptively and has a talent for putting together unique perspectives to realize a greater whole. As a problem solver, Michael can break down complex ideas into their simpler components. Beyond his soft-skills, Michael is also a forward-thinking innovator who truly understands technology. He has great ambitions for leveraging technology accross the full spectrum of life, and the know-how to deliver creative yet realistic ideas and solutions. Essentially, Michael gets both the forest and the trees and his passion is infectious."
-— Sergio Porres, Developer, University of Notre Dame, worked directly with Michael at University of Notre Dame
-"I worked with Michael Dunn on a project which contained transferring files from one server to the other.It required encrypting decrypting files. He streamlined the process beautifully using python scripts. He was very meticulous and resolved many issues we encountered on the way.It was a pleasure working with him."
-— Shobha Kamat, Senior Application Developer, University of Notre Dame, worked with Michael at University of Notre Dame
+
+#####Shobha Kamat, Senior Application Developer, University of Notre Dame
+"I worked with Michael Dunn on a project which contained transferring files from one server to the other.It required encrypting decrypting files. He streamlined the process beautifully using python scripts. He was very meticulous and resolved many issues we encountered on the way. It was a pleasure working with him."
+
+#####Adam Freehling, Associate Application Developer, University of Notre Dame
 "Michael is always a great team member to work with. He constantly is striving to improve processes and development techniques within our organization. He is very knowledgeable on a variety of technologies and encourages learning and promoting growth in others. Most recently I have worked with Michael on developing “Code Camps” within our organization to promote the learning of the python programming language and teaching the django web framework."
-— Adam Freehling, Associate Application Developer, University of Notre Dame, worked directly with Michael at University of Notre Dame
-"Mike went above and beyond his responsibilities on the ASSA project. His main assignment was to develop database views for the contractor so that information could be retrieved from our Student Information System. However, as the project progressed, it became apparent that the contractor required some guidance in his development of the web application, and Mike stepped up to provide that guidance, including reviewing the developer's code and helping him determine the best way to implement certain solutions. He also became the main point person for the customer, helping define requirements and design the solution to satisfy their
-￼￼￼￼￼￼￼￼￼￼Page7
-needs. His sense of humor was most welcome on the project, helping keep us loose even during stressful moments."
-— Chris Corrente, Manager, Student/Faculty Information Systems, University of Notre Dame, managed Michael at University of Notre Dame
-Contact Michael on LinkedIn
-Page8
+
+#####Chris Corrente, Manager, Student/Faculty Information Systems, University of Notre Dame
+"Mike went above and beyond his responsibilities on the ASSA project. His main assignment was to develop database views for the contractor so that information could be retrieved from our Student Information System. However, as the project progressed, it became apparent that the contractor required some guidance in his development of the web application, and Mike stepped up to provide that guidance, including reviewing the developer's code and helping him determine the best way to implement certain solutions. He also became the main point person for the customer, helping define requirements and design the solution to satisfy their needs. His sense of humor was most welcome on the project, helping keep us loose even during stressful moments."
